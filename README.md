@@ -9,4 +9,6 @@ We are desining a virtual re-creation of the strategical board game Onitama. Thi
 - Students on team: Alex, Caleb, and Colin
 - Semester: Spring 2023
 
+![Project Logo](screenshots/menu.png)
+
 
