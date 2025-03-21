@@ -39,6 +39,6 @@ This project is a virtual re-creation of the strategic board game **Onitama**, d
 Run the following command to build and package the project into a JAR file:
 ```bash
 make package
-'''
+```
 
 
