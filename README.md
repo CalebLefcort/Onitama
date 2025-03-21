@@ -41,4 +41,13 @@ Run the following command to build and package the project into a JAR file:
 make package
 ```
 
+---
+
+## 🏃 Running the Project
+
+Run the following command to run the game:
+```bash
+make mvn-run
+```
+
 
