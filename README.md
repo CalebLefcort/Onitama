@@ -1,4 +1,5 @@
 # CPSC 224 Final Project: Onitama
+## Members: Alex, Caleb, Colin
 
 # 🎮 Onitama - Virtual Re-creation
 
@@ -9,7 +10,7 @@ This project is a virtual re-creation of the strategic board game **Onitama**, d
 ## 📸 Screenshots
 
 ### Game Menu
-![Game Menu]!(Screenshots/Menu.png)
+![Game Menu](Screenshots/Menu.png)
 
 ### Actual Game
 ![Game Board](Screenshots/Game.png))
@@ -38,12 +39,6 @@ This project is a virtual re-creation of the strategic board game **Onitama**, d
 Run the following command to build and package the project into a JAR file:
 ```bash
 make package
-
-
-### Team Information:
-
-- Team Name: Team Onitama
-- Students on team: Alex, Caleb, and Colin
-- Semester: Spring 2023
+'''
 
 
